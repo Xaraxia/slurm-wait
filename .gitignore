@@ -1,0 +1,5 @@
+# Ignore the default database path
+slurm_wait_times.db
+
+# Ignore the default reporting path
+report/*
